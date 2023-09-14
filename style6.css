@@ -1,0 +1,21 @@
+.shakir{
+    width: 500px;
+    background: red;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.lorem{
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    background: green;
+    display: none;
+    overflow: hidden;//importen likha jate na bahire jay
+}
+button{
+    font-size: 50px;
+    margin: auto;
+}

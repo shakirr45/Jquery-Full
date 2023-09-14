@@ -1,0 +1,27 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background: red;
+    margin-top: 20px;
+    /* display: none; */
+
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background: green;
+    margin-top: 20px;
+    /* display: none; */
+
+
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    margin-top: 20px;
+    margin-top: 20px;
+    /* display: none; */
+
+
+}
